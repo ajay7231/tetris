@@ -20,7 +20,7 @@ A classic Tetris game implemented in Python using the Pygame library. Play the i
 1. Clone this repository:
 
    ```bash
-   https://github.com/ajay7231/tetris.git
+   git clone https://github.com/ajay7231/tetris.git
    ```
 
 2. Navigate to the project directory:
