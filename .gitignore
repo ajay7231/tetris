@@ -1,0 +1,24 @@
+# Virtual environment
+bin
+code/__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.cfg
+lib
+lib64
+include
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dependency management
+pip-lock.json
+Pipfile.lock
+
+# Environment variables file (if using dotenv)
+.env
